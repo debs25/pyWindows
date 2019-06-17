@@ -1,4 +1,5 @@
-# pyBlackboard
+# pyBlackboard with PyQt5 , drawing/painting appliction with python 3.6
+
 #### Simple one file blackboard with python 3.6 and pyQt5
 #### Ctrl + S - Save 
 #### Ctrl + N - New 
